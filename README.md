@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://github.com/HarvinderDev.png" width="150" alt="Harvinder" />
 
@@ -7,16 +7,17 @@
 **Full-Stack Developer** | Building SaaS, Mobile Apps & Open Source Tools
 
 [![GitHub](https://img.shields.io/badge/GitHub-HarvinderDev-181717?style=flat&logo=github)](https://github.com/HarvinderDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/harvindertapper/)
+[![Website](https://img.shields.io/badge/Website-harvindersingh.in-4CAF50?style=flat&logo=googlechrome)](https://harvindersingh.in)
 
 </div>
 
 ## 🔥 What I Do
 
-- 🌐 **Websites** — Modern, responsive, blazing-fast (Next.js, React, Tailwind)
-- 📱 **Mobile Apps** — Cross-platform iOS + Android (React Native, Flutter)
-- 🛠 **SaaS Tools** — Full-stack MVPs with auth, payments & dashboards
-- ⚡ **APIs** — RESTful & GraphQL backends (Node.js, Express, PostgreSQL)
+- 🌐 **Websites** - Modern, responsive, blazing-fast (Next.js, React, Tailwind)
+- 📱 **Mobile Apps** - Cross-platform iOS + Android (React Native, Flutter)
+- 🛠 **SaaS Tools** - Full-stack MVPs with auth, payments & dashboards
+- ⚡ **APIs** - RESTful & GraphQL backends (Node.js, Express, PostgreSQL)
 
 ## 🧰 Tech Stack
 
@@ -29,7 +30,7 @@
 
 ## 🚀 Currently Building
 
-- 🔨 _More coming soon..._
+- 🔨 [harrylabs.in](https://harrylabs.in) - Open source tools & APIs
 
 ## 📊 GitHub Activity
 
@@ -40,7 +41,9 @@
 
 - 💼 **Freelance Projects**: Open for web, mobile & SaaS development
 - 📧 **Email**: singhharvinder1211@gmail.com
-- 💬 **DM me** on [LinkedIn](https://linkedin.com/in/) or [Twitter](https://twitter.com/)
+- 🌐 **Portfolio**: [harvindersingh.in](https://harvindersingh.in)
+- 🔬 **Projects & APIs**: [harrylabs.in](https://harrylabs.in)
+- 💬 **DM me on [LinkedIn](https://linkedin.com/in/harvindertapper/)
 
 > *"Ship fast. Build in public. Help people."*
 
